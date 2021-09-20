@@ -113,6 +113,6 @@ public class Rect {
 	
 	public Rect shrink() {
 		return shrink( 1 );
-	}
+	} 
 	
 }
